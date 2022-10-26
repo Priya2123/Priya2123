@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priya2123&label=Profile%20views&color=0e75b6&style=flat" alt="priya2123" /> </p>
 
-<div style="display;flex;flex-direction:row;justify-content:space-between;">
-  
-  <div align="left">
+<img align="right" src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" alt="" />
   
 - 🔭 I’m currently working on **Data Structures and Django.**
 
@@ -23,10 +21,7 @@
 - 📄 Know about my experiences [https://bit.ly/Priya_Aggarwal](https://bit.ly/Priya_Aggarwal)
 
 - ⚡ Fun fact **Google everything.**
-  </div>
 
-<div align="left"><img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" alt="" /></div>
- </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
