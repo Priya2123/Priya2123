@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priya2123&label=Profile%20views&color=0e75b6&style=flat" alt="priya2123" /> </p>
 
-<div class="parent">
+<div style="display;flex;flex-direction:row;justify-content:space-between;">
   
   <div align="left">
   
